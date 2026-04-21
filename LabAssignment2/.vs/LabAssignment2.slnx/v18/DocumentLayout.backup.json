@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AssLab2\\LabAssignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|d:\\asslab2\\labassignment2\\uiwinforms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|d:\\asslab2\\labassignment2\\uiwinforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|d:\\asslab2\\labassignment2\\uiwinforms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|d:\\asslab2\\labassignment2\\uiwinforms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|d:\\asslab2\\labassignment2\\uiwinforms\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\frmMain.cs",
+              "RelativeDocumentMoniker": "UIWinForms\\frmMain.cs",
+              "ToolTip": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\frmMain.cs [Design]",
+              "RelativeToolTip": "UIWinForms\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T08:37:11.739Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "UIWinForms\\frmLogin.cs",
+              "ToolTip": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\frmLogin.cs",
+              "RelativeToolTip": "UIWinForms\\frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T08:34:30.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\DbConnection.cs",
+              "RelativeDocumentMoniker": "UIWinForms\\DbConnection.cs",
+              "ToolTip": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\DbConnection.cs",
+              "RelativeToolTip": "UIWinForms\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T08:04:02.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\App.config",
+              "RelativeDocumentMoniker": "UIWinForms\\App.config",
+              "ToolTip": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\App.config",
+              "RelativeToolTip": "UIWinForms\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-19T07:57:09.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "UIWinForms\\frmLogin.cs",
+              "ToolTip": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\frmLogin.cs [Design]",
+              "RelativeToolTip": "UIWinForms\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T07:51:59.186Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
