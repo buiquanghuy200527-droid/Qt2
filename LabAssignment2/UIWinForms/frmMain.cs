@@ -16,5 +16,15 @@ namespace UIWinForms
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            new frmItem().Show();
+        }
+
+        private void btnOrder_Click(object sender, EventArgs e)
+        {
+            new frmOrder().Show();
+        }
     }
 }

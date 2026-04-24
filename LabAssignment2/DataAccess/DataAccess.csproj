@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AgentDAO.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="FilterDAO.cs" />
+    <Compile Include="ItemDAO.cs" />
     <Compile Include="DbConnection.cs" />
+    <Compile Include="OrderDAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,26 +1,102 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\AssLab2\\LabAssignment2\\",
+  "WorkspaceRootPath": "D:\\AssLab2\\Qt2\\LabAssignment2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|d:\\asslab2\\labassignment2\\uiwinforms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|d:\\asslab2\\qt2\\labassignment2\\webmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|d:\\asslab2\\labassignment2\\uiwinforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|d:\\asslab2\\qt2\\labassignment2\\webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|d:\\asslab2\\labassignment2\\uiwinforms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|d:\\asslab2\\qt2\\labassignment2\\webmvc\\views\\filter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\filter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|d:\\asslab2\\qt2\\labassignment2\\webmvc\\controllers\\filtercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\filtercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|d:\\asslab2\\qt2\\labassignment2\\webmvc\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|d:\\asslab2\\qt2\\labassignment2\\webmvc\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|d:\\asslab2\\qt2\\labassignment2\\webmvc\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|d:\\asslab2\\qt2\\labassignment2\\webmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|d:\\asslab2\\qt2\\labassignment2\\webmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|d:\\asslab2\\qt2\\labassignment2\\webmvc\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268077AC-7CDC-4523-BA6D-EDBEFD748E1E}|BusinessLogic\\BusinessLogic.csproj|D:\\AssLab2\\Qt2\\LabAssignment2\\businesslogic\\orderbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268077AC-7CDC-4523-BA6D-EDBEFD748E1E}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\orderbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|D:\\AssLab2\\Qt2\\LabAssignment2\\uiwinforms\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|d:\\asslab2\\qt2\\labassignment2\\webmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|d:\\asslab2\\qt2\\labassignment2\\webmvc\\labmode3.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F14574BE-A8BB-45E2-8957-70682CA42537}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\labmode3.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|d:\\asslab2\\qt2\\labassignment2\\uiwinforms\\frmfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\frmfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|D:\\AssLab2\\Qt2\\LabAssignment2\\uiwinforms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|d:\\asslab2\\labassignment2\\uiwinforms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|D:\\AssLab2\\Qt2\\LabAssignment2\\uiwinforms\\frmitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\frmitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|d:\\asslab2\\labassignment2\\uiwinforms\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|D:\\AssLab2\\Qt2\\LabAssignment2\\uiwinforms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|D:\\AssLab2\\Qt2\\LabAssignment2\\uiwinforms\\frmagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\frmagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A4E938-B904-47A9-A895-16304F293522}|DataAccess\\DataAccess.csproj|D:\\AssLab2\\Qt2\\LabAssignment2\\dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A4E938-B904-47A9-A895-16304F293522}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A4E938-B904-47A9-A895-16304F293522}|DataAccess\\DataAccess.csproj|D:\\AssLab2\\Qt2\\LabAssignment2\\dataaccess\\agentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A4E938-B904-47A9-A895-16304F293522}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\agentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|D:\\AssLab2\\Qt2\\LabAssignment2\\uiwinforms\\frmagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\frmagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268077AC-7CDC-4523-BA6D-EDBEFD748E1E}|BusinessLogic\\BusinessLogic.csproj|D:\\AssLab2\\Qt2\\LabAssignment2\\businesslogic\\agentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268077AC-7CDC-4523-BA6D-EDBEFD748E1E}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\agentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|D:\\AssLab2\\Qt2\\LabAssignment2\\uiwinforms\\frmitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEE6C872-D93B-400A-9F0A-981A36FA5DCE}|UIWinForms\\UIWinForms.csproj|solutionrelative:uiwinforms\\frmitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +106,313 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmMain.cs [Design]",
-              "DocumentMoniker": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\frmMain.cs",
-              "RelativeDocumentMoniker": "UIWinForms\\frmMain.cs",
-              "ToolTip": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\frmMain.cs [Design]",
-              "RelativeToolTip": "UIWinForms\\frmMain.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T08:37:11.739Z",
-              "EditorCaption": " [Design]"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Views\\Filter\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Filter\\Index.cshtml",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Views\\Filter\\Index.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Filter\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T10:18:05.28Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\frmLogin.cs",
-              "RelativeDocumentMoniker": "UIWinForms\\frmLogin.cs",
-              "ToolTip": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\frmLogin.cs",
-              "RelativeToolTip": "UIWinForms\\frmLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Title": "FilterController.cs",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Controllers\\FilterController.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Controllers\\FilterController.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Controllers\\FilterController.cs",
+              "RelativeToolTip": "WebMVC\\Controllers\\FilterController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T08:34:30.447Z",
+              "WhenOpened": "2026-04-24T10:12:42.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DbConnection.cs",
-              "DocumentMoniker": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\DbConnection.cs",
-              "RelativeDocumentMoniker": "UIWinForms\\DbConnection.cs",
-              "ToolTip": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\DbConnection.cs",
-              "RelativeToolTip": "UIWinForms\\DbConnection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T09:57:27.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T08:53:10.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T08:04:02.215Z",
+              "WhenOpened": "2026-04-24T08:46:36.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\App.config",
-              "RelativeDocumentMoniker": "UIWinForms\\App.config",
-              "ToolTip": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\App.config",
-              "RelativeToolTip": "UIWinForms\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwDMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T08:08:39.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "WebMVC\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:06:41.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebMVC\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:05:50.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "WebMVC\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:05:24.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Web.config",
+              "RelativeDocumentMoniker": "WebMVC\\Web.config",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\Web.config",
+              "RelativeToolTip": "WebMVC\\Web.config",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-04-19T07:57:09.315Z",
+              "WhenOpened": "2026-04-24T07:58:15.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\frmLogin.cs",
-              "RelativeDocumentMoniker": "UIWinForms\\frmLogin.cs",
-              "ToolTip": "D:\\AssLab2\\LabAssignment2\\UIWinForms\\frmLogin.cs [Design]",
-              "RelativeToolTip": "UIWinForms\\frmLogin.cs [Design]",
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebMVC\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebMVC\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T07:51:59.186Z",
+              "WhenOpened": "2026-04-24T07:46:35.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LabMode3.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\LabMode3.edmx",
+              "RelativeDocumentMoniker": "WebMVC\\LabMode3.edmx",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\WebMVC\\LabMode3.edmx [Diagram1]",
+              "RelativeToolTip": "WebMVC\\LabMode3.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-04-24T07:30:04.878Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmFilter.cs",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\UIWinForms\\frmFilter.cs",
+              "RelativeDocumentMoniker": "UIWinForms\\frmFilter.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\UIWinForms\\frmFilter.cs",
+              "RelativeToolTip": "UIWinForms\\frmFilter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T01:27:07.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmOrder.cs [Design]",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\UIWinForms\\frmOrder.cs",
+              "RelativeDocumentMoniker": "UIWinForms\\frmOrder.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\UIWinForms\\frmOrder.cs [Design]",
+              "RelativeToolTip": "UIWinForms\\frmOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T16:22:16.6Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderBLL.cs",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\BusinessLogic\\OrderBLL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\OrderBLL.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\BusinessLogic\\OrderBLL.cs",
+              "RelativeToolTip": "BusinessLogic\\OrderBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T16:05:26.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\DataAccess\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\OrderDAO.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\DataAccess\\OrderDAO.cs",
+              "RelativeToolTip": "DataAccess\\OrderDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T16:04:17.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmAgent.cs",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\UIWinForms\\frmAgent.cs",
+              "RelativeDocumentMoniker": "UIWinForms\\frmAgent.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\UIWinForms\\frmAgent.cs",
+              "RelativeToolTip": "UIWinForms\\frmAgent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:35:32.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmAgent.cs [Design]",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\UIWinForms\\frmAgent.cs",
+              "RelativeDocumentMoniker": "UIWinForms\\frmAgent.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\UIWinForms\\frmAgent.cs [Design]",
+              "RelativeToolTip": "UIWinForms\\frmAgent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:26:23.038Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AgentBLL.cs",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\BusinessLogic\\AgentBLL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\AgentBLL.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\BusinessLogic\\AgentBLL.cs",
+              "RelativeToolTip": "BusinessLogic\\AgentBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:04:43.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AgentDAO.cs",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\DataAccess\\AgentDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\AgentDAO.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\DataAccess\\AgentDAO.cs",
+              "RelativeToolTip": "DataAccess\\AgentDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:02:17.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\UIWinForms\\frmMain.cs",
+              "RelativeDocumentMoniker": "UIWinForms\\frmMain.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\UIWinForms\\frmMain.cs",
+              "RelativeToolTip": "UIWinForms\\frmMain.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:00:38.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\UIWinForms\\frmMain.cs",
+              "RelativeDocumentMoniker": "UIWinForms\\frmMain.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\UIWinForms\\frmMain.cs [Design]",
+              "RelativeToolTip": "UIWinForms\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:59:24.229Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmItem.cs",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\UIWinForms\\frmItem.cs",
+              "RelativeDocumentMoniker": "UIWinForms\\frmItem.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\UIWinForms\\frmItem.cs",
+              "RelativeToolTip": "UIWinForms\\frmItem.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:37:13.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmItem.cs [Design]",
+              "DocumentMoniker": "D:\\AssLab2\\Qt2\\LabAssignment2\\UIWinForms\\frmItem.cs",
+              "RelativeDocumentMoniker": "UIWinForms\\frmItem.cs",
+              "ToolTip": "D:\\AssLab2\\Qt2\\LabAssignment2\\UIWinForms\\frmItem.cs [Design]",
+              "RelativeToolTip": "UIWinForms\\frmItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:13:48.792Z",
               "EditorCaption": " [Design]"
             }
           ]

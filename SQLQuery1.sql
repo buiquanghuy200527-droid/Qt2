@@ -1,4 +1,4 @@
-USE LabAssignment2;
+USE Lab2DB;
 
 CREATE TABLE Users (
     UserID   INT PRIMARY KEY IDENTITY,
