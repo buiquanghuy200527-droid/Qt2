@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using WebMVC_Core.Data;
 using WebMVC_Core.Models;
 using Microsoft.EntityFrameworkCore;
